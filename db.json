@@ -41,5 +41,41 @@
         "szalag": "strip",
         "mostanában": "nowadays",
         "tervezés": "design"
+    },
+    "words2B": {
+        "egy palack": "a bottle of",
+        "egy tál": "a bowl of",
+        "egy fémdoboz": "a can of",
+        "egy csésze": "a cup of",
+        "egy pohár": "a glass of",
+        "egy csomag": "a packet of",
+        "egy tábla csoki": "a bar of chocolate",
+        "egy nap": "a day",
+        "egy hét": "a week",
+        "egy szelet": "a slice of",
+        "kukorica": "corn",
+        "étkezési szokások": "eating habits",
+        "forró csoki": "hot chocolate",
+        "leves": "soup"
+    },
+    "words2C": {
+        "undoritó": "disgusting",
+        "orási": "huge",
+        "félretesz": "save",
+        "csodálatos": "wondeful"
+    },
+    "words2D": {
+        "bab": "bean",
+        "hús": "meat",
+        "taco": "taco",
+        "tortilla": "tortilla",
+        "különösen": "especially",
+        "friss": "fresh",
+        "közepes": "medium",
+        "étlap": "menu",
+        "rendel": "order",
+        "csípős": "spicy",
+        "a legjobb": "the best",
+        "finom": "yummy"
     }
 }
